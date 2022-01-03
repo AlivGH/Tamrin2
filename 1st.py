@@ -1,0 +1,1 @@
+a = "it's my first text message on git for directory:git/projectes/Tamrin"
